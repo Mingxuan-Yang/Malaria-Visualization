@@ -1,10 +1,10 @@
-## Malaria Visualization
+# Malaria Visualization
 
-### Introduction
+## Introduction
 
 Malaria is a fatal disease caused by infected mosquitoes. It has remained with human in a long history and is one of the biggest causes of death. Almost half of the world’s population, according to *the World Health Organization* (WHO), is at the risk of catching Malaria. To gain more comprehension about this dreadful epidemic, 3 visualizations are created in this project based on the relevant datasets.
 
-### Datasets
+## Datasets
 
 * [`malaria_inc.csv`](./Data/malaria_inc.csv) - Malaria incidence by country for all ages across the world across time.  
 * [`malaria_deaths.csv`](./Data/malaria_deaths.csv) - Malaria deaths by country for all ages across the world and time.  
@@ -13,9 +13,9 @@ Malaria is a fatal disease caused by infected mosquitoes. It has remained with h
 * [`data_pop_gdp.csv`](./Data/data_pop_gdp.csv) - The Gross Domestic Product (GDP) per capita and Population for 189 countries in year 2000, 2005, 2010 and 2015.  
 * [`region`](./Data/region.csv) - The region of 248 countries.
 
-### Visualization
+## Visualization
 
-#### Figure 1
+### Figure 1
 
 The geographic distribution of Malaria based on the deaths caused by this epidemic per 100,000 population from 1990 to 2016 can be visualized as below.
 
@@ -23,7 +23,7 @@ The geographic distribution of Malaria based on the deaths caused by this epidem
 
 The gray part of **Figure 1** means that the Malaria death data for the corresponding countries is not available. Among those without missing data, we can see that the severity of Malaria is greater in the Africa area. Almost all of cases with death number greater than 100 per 100,000 population appear in Africa. This should arise the attention of the corresponding health organizations. Besides, as can be noted, the global death condition in 2015 is much better than that in 1990. This demonstrates the effort made by WHO in containing this epidemic.
 
-#### Figure 2
+### Figure 2
 
 The total number of deaths caused by Malaria in different demographic groups across time is plotted in **Figure 2**.
 
@@ -31,7 +31,7 @@ The total number of deaths caused by Malaria in different demographic groups acr
 
 From **Figure 2**, a conclusion can be obtained that children are the most vulnerable object when faced with Malaria, and the level of vulnerability reduces as they grow up according to the lower position of lines with older age. Besides, the total number of deaths for children less than 5 years old is greater than the sum of all the other groups, indicating that infancy is the period that requires more attention during their development stages.
 
-#### Figure 3
+### Figure 3
 
 The relationship between Malaria incidences and GPD per capita in each country across time is shown in **Figure 3**.
 
