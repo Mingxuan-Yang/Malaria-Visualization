@@ -1,5 +1,7 @@
 # Malaria Visualization
 
+*Project Date: 2020-09-23*
+
 ## Introduction
 
 Malaria is a fatal disease caused by infected mosquitoes. It has remained with human in a long history and is one of the biggest causes of death. Almost half of the world’s population, according to *the World Health Organization* (WHO), is at the risk of catching Malaria. To gain more comprehension about this dreadful epidemic, 3 visualizations are created in this project based on the relevant datasets.
